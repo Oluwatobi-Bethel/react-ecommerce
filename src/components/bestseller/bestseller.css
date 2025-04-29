@@ -1,0 +1,38 @@
+.new_collection_bestseller{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+    /* height: 90vh; */
+    background-color: grey;
+   
+}
+
+
+.new_collections_bestseller h1{
+    color: #592600;
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+.new_collections_bestseller hr{
+    width: 200px;
+    height: 5px !important;
+    border-radius: 10px;
+    background: #252525;
+}
+
+
+.collections{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+.new_collections_bestseller p{
+    font-size: 20px;
+}
