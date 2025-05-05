@@ -2,7 +2,7 @@
 import IMG1 from './storeflower1.png'
 import IMG2 from './hplaptop.jpg'
 import IMG3 from './iphone13.jpeg'
-import IMG4 from './iphone15Plus.jpg'
+import IMG4 from './iPhone15Plus.jpg'
 import IMG5 from './menshirt1.jpeg'
 import IMG6 from './menshirt2.jpeg'
 
