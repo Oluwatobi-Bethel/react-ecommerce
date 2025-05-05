@@ -15,7 +15,7 @@ const Cart = () => {
     return (
       <div className='container py-5'>
         <h2 className='mb-4 text-center'>Your Cart</h2>
-  
+  g
         {/* Show empty cart message */}
         {cartItems.length === 0 ? (
           <div className='text-center'>
