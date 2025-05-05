@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import './Hero.css'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import FLOWER from'../../assets/purepng1.png'
+import FLOWER from'../../assets/samsungs24ultra.jpeg'
 
 const Hero = () => {
   useEffect(()=>{
@@ -19,9 +19,9 @@ const Hero = () => {
         <div className="container">
         <div className="row">
           <div className="col-md-7">
-            <h1 data-aos="fade-right">Flower Bay</h1>
-            <p data-aos='fade' data-aos-delay="300">Lovely flowers at your disposal</p>
-            <button className="btn btn-primary" data-aos="fade-up" data-aos-delay="600">shop now</button>
+            <h1 data-aos="fade-right">Your products hub</h1>
+            <p data-aos='fade' data-aos-delay="300">Lovely products at your disposal</p>
+            <button className="btn btn-primary" data-aos="fade-up" data-aos-delay="600">Shop now</button>
         </div>
 
 
